@@ -1,0 +1,2 @@
+# DermaSense-AI-Powered-Skin-Analysis-and-Product-Recommendation
+DermaSense is an AI-driven skin analysis system that utilizes computer vision to analyze skin conditions and recommend personalized skincare products. Using YOLOv8, the project offers precise skin analysis by detecting skin conditions like acne, wrinkles, pigmentation, and more, followed by intelligent product recommendations based on the analysis.
